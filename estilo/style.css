@@ -1,0 +1,15 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgba(73, 160, 160, 0.623);
+
+}
+
+main{
+
+    background-color: bisque;
+    margin: auto;
+}
